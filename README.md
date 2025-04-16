@@ -1,106 +1,51 @@
 <div align="center">
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Hadia Yasir</title>
-  <style>
-    body {
-      background-color: #0d1117;
-      color: #ffffff;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      text-align: center;
-      margin-top: 100px;
-    }
 
-    h1 {
-      font-size: 2.5em;
-    }
+# 🌟 Hadia Yasir  
+**Computer Science Student**  
+Building cool stuff with Arduino, C++, and creativity ✨
 
-    h2 {
-      font-weight: normal;
-    }
+🎓 CS Student | 💡 Problem Solver | 💻 Code & Creativity
 
-    .typewriter {
-      font-size: 1.5em;
-      color: #00f7ff;
-      white-space: nowrap;
-      overflow: hidden;
-      border-right: 2px solid #00f7ff;
-      width: 20ch;
-      margin: 0 auto;
-      animation: typing 3s steps(20) infinite alternate,
-                 blink 0.7s step-end infinite;
-    }
+### 🚀 I love:
+`C++` • `Arduino` • `Web Dev` • `Graphic Design` • `UX` • `Python`
 
-    @keyframes typing {
-      from { width: 0; }
-      to { width: 20ch; }
-    }
+<p>
+  <a href="mailto:hadiya.ymalik@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINK-HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?logo=github&logoColor=white" />
+  </a>
+</p>
 
-    @keyframes blink {
-      50% { border-color: transparent; }
-    }
+---
 
-    .buttons a {
-      margin: 10px;
-      padding: 10px 15px;
-      text-decoration: none;
-      color: white;
-      border-radius: 5px;
-      font-weight: bold;
-    }
+### 💻 Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-    .linkedin { background-color: #0077b5; }
-    .twitter  { background-color: #1da1f2; }
-    .email    { background-color: #d44638; }
-    .portfolio { background-color: #333; }
-  </style>
-</head>
-<body>
+---
 
-  <h1>Hadia Yasir</h1>
-  <h2>Computer Science Student | Arduino Explorer | Code + Creativity</h2>
-  
-  <div class="typewriter">Building cool stuff with code</div>
+### 📈 GitHub Stats
 
-  <div class="buttons">
-    <a class="linkedin" href="#">LINKEDIN</a>
-    <a class="twitter" href="#">TWITTER</a>
-    <a class="email" href="mailto:hadiya.ymalik@gmail.com">EMAIL</a>
-    <a class="portfolio" href="#">PORTFOLIO</a>
-  </div>
+![](https://github-readme-stats.vercel.app/api?username=Hadia-codes&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=Hadia-codes&theme=shadow_blue&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadia-codes&theme=shadow_blue&hide_border=false&layout=compact)
 
-</body>
-</html>
+---
 
-# 💫 About Me:
-Hi, I'm Hadia, a Computer Science student exploring the intersection of code, creativity, and real-world problem solving.<br>🎓 CS Student | Building cool stuff with Arduino and code<br>💡 Skills: C/C++, web development, Arduino, UI/UX basics, Graphic Design<br>🌱 Learning: Data structures, algorithms, and system design<br>🎯 Goal: Build smart, privacy-conscious, and user-friendly tech
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hadiya.ymalik@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hadia-codes&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hadia-codes&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadia-codes&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
+### 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hadia-codes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=Hadia-codes&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://visitcount.itsvg.in/api?id=Hadia-codes&icon=0&color=0)
 
 </div>
-
