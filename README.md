@@ -1,4 +1,78 @@
 <div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Hadia Yasir</title>
+  <style>
+    body {
+      background-color: #0d1117;
+      color: #ffffff;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      text-align: center;
+      margin-top: 100px;
+    }
+
+    h1 {
+      font-size: 2.5em;
+    }
+
+    h2 {
+      font-weight: normal;
+    }
+
+    .typewriter {
+      font-size: 1.5em;
+      color: #00f7ff;
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: 2px solid #00f7ff;
+      width: 20ch;
+      margin: 0 auto;
+      animation: typing 3s steps(20) infinite alternate,
+                 blink 0.7s step-end infinite;
+    }
+
+    @keyframes typing {
+      from { width: 0; }
+      to { width: 20ch; }
+    }
+
+    @keyframes blink {
+      50% { border-color: transparent; }
+    }
+
+    .buttons a {
+      margin: 10px;
+      padding: 10px 15px;
+      text-decoration: none;
+      color: white;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+
+    .linkedin { background-color: #0077b5; }
+    .twitter  { background-color: #1da1f2; }
+    .email    { background-color: #d44638; }
+    .portfolio { background-color: #333; }
+  </style>
+</head>
+<body>
+
+  <h1>Wasay Rana</h1>
+  <h2>High-Performance Computing | AI Agent and LLM Practitioner | Ensemble Modeling</h2>
+  
+  <div class="typewriter">Ensemble Modeling for</div>
+
+  <div class="buttons">
+    <a class="linkedin" href="#">LINKEDIN</a>
+    <a class="twitter" href="#">TWITTER</a>
+    <a class="email" href="#">EMAIL</a>
+    <a class="portfolio" href="#">PORTFOLIO</a>
+  </div>
+
+</body>
+</html>
 
 # 💫 About Me:
 Hi, I'm Hadia, a Computer Science student exploring the intersection of code, creativity, and real-world problem solving.<br>🎓 CS Student | Building cool stuff with Arduino and code<br>💡 Skills: C/C++, web development, Arduino, UI/UX basics, Graphic Design<br>🌱 Learning: Data structures, algorithms, and system design<br>🎯 Goal: Build smart, privacy-conscious, and user-friendly tech
