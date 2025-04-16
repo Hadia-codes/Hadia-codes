@@ -1,6 +1,11 @@
 <div align="center">
 
-# 💫 About Me
+# **Hadia Yasir**
+**Computer Science Student | Creative Coder | Tech Explorer**
+
+---
+
+## 💫 About Me  
 Hi, I'm **Hadia** — a Computer Science student passionate about building smart, simple, and impactful tech.  
 I love turning ideas into real projects — whether it's coding with C++, creating Arduino-based systems, or designing clean user interfaces.  
 I'm especially curious about how tech can solve real-world problems in creative ways.
