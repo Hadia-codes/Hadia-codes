@@ -10,9 +10,7 @@
 <div align="center">
 
 ```
-╭─────────────────────────────────────────────╮
-│    Welcome to my creative coding world!     │
-╰─────────────────────────────────────────────╯
+
 ```
 
 </div>
@@ -167,9 +165,7 @@ Believe in the power of community and collaborative learning
 <div align="center">
 
 ```
-╭─────────────────────────────────────────────╮
-│   Keep coding, keep creating, keep caring!   │
-╰─────────────────────────────────────────────╯
+
 ```
 
 </div>
