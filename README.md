@@ -5,19 +5,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=900&color=FF69B4&center=true&vCenter=true&width=600&lines=Creative+Coding;Web+Development;Arduino+Projects;UI%2FUX+Design;Building+Amazing+Things!" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="60">
 
 </div>
 
 <div align="center">
 
-```
-💖 ═══════════════════════════════════════════════ 💖
-    Welcome to my creative coding world!    
-💖 ═══════════════════════════════════════════════ 💖
-```
+
 
 </div>
 
@@ -245,11 +238,6 @@ Hi, I'm **Hadia** — a Computer Science student passionate about building smart
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,FFB6C1,FFC0CB&height=100&section=footer&animation=fadeIn" width="100%">
 
-```
-💖 ═══════════════════════════════════════════════ 💖
-   Keep coding, keep creating, keep caring!   
-💖 ═══════════════════════════════════════════════ ═
-```
 
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-45f1-abf4-8720da902874.gif" width="200">
 
