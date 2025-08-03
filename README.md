@@ -141,7 +141,6 @@ I actively contribute to student-led tech communities and love mentoring others 
 
 <div align="center">
 
-### Fun Facts About Me
 
 I love combining creativity with code to build beautiful user experiences  
 Arduino enthusiast who enjoys bringing ideas to life with hardware  
