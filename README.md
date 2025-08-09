@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hadia Yasir
-### Computer Science Student | Creative Coder | Web Developer | Tech Explorer
+### Computer Science Student | Creative Coder | Web Developer | Arduino Explorer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=900&color=FF69B4&center=true&vCenter=true&width=600&lines=Creative+Coding;Web+Development;Arduino+Projects;UI%2FUX+Design;Building+Amazing+Things!" alt="Typing SVG" />
 
