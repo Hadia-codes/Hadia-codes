@@ -44,7 +44,7 @@
 
 ## Education  
 
-- *B.S. Computer Science* – (Your University & Year)  
+- *B.S. Computer Science* 
 - Relevant certifications in **Graphic Design, UI/UX, and Arduino Programming**  
 
 ---
